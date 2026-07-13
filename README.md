@@ -28,7 +28,7 @@ Este ainda não é um projeto finalizado. É um registro técnico: o que funcion
 
 ## Problema atual: incompatibilidade de arquitetura
 
-O maior obstáculo até agora: a imagem do Slax que estou usando é x86 (32-bit), mas o gamestick roda em ARM. Isso significa que o sistema não inicializa corretamente / não consegue rodar binários nativos, pois os conjuntos de instruções são incompatíveis (x86 usa CISC, ARM usa RISC — não dá pra simplesmente rodar um binário compilado para uma arquitetura na outra sem emulação).
+O maior obstáculo até agora: a imagem do Slax que estou usando é x86 (32-bit), mas o gamestick roda em ARM. Isso significa que o sistema não inicializa corretamente / não consegue rodar binários nativos, pois os conjuntos de instruções são incompatíveis (x86 usa CISC, ARM usa RISC; não dá pra simplesmente rodar um binário compilado para uma arquitetura na outra sem emulação).
 
 - [ ] Encontrar uma imagem do Slax (ou outra distro leve) feita especificamente para ARM
 - [ ] Verificar suporte oficial da Rockchip para essa variante do chip (identificar o modelo exato: RK3229? RK3288? RK3328?)
@@ -80,7 +80,7 @@ This isn't a finished project (yet). It's a technical log: what worked, what did
 
 ## Current issue: architecture mismatch
 
-The biggest obstacle so far: the Slax image I'm using is x86 (32-bit), but the gamestick runs on ARM. This means the system doesn't boot properly / can't run native binaries, because the instruction set architectures are incompatible (x86 uses CISC, ARM uses RISC — you can't just run a binary compiled for one on the other without emulation).
+The biggest obstacle so far: the Slax image I'm using is x86 (32-bit), but the gamestick runs on ARM. This means the system doesn't boot properly / can't run native binaries, because the instruction set architectures are incompatible (x86 uses CISC, ARM uses RISC; you can't just run a binary compiled for one on the other without emulation).
 
 - [ ] Find a Slax (or other lightweight distro) image built specifically for ARM
 - [ ] Check for official Rockchip support for this chip variant (identify the exact model: RK3229? RK3288? RK3328?)
