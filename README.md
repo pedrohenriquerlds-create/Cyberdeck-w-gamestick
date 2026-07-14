@@ -36,6 +36,8 @@ O maior obstáculo até agora: a imagem do Slax que estou usando é x86 (32-bit)
 - [ ] Considerar QEMU/emulação como último recurso (não recomendado para uso diário, apenas testes)
 - [ ] Adicionar tela HDMI ao cyberdeck
 - [ ] Projetar e imprimir uma case em 3D para o cyberdeck
+- [ ] Adicionar um teclado portátil ao Hardware 
+- [ ] Adicionar um trackpad ao Hardware 
 
 ## Log de progresso
 
@@ -88,6 +90,8 @@ The biggest obstacle so far: the Slax image I'm using is x86 (32-bit), but the g
 - [ ] Consider QEMU/emulation as a last resort (not recommended for daily use, testing only)
 - [ ] Add HDMI display to the cyberdeck
 - [ ] Design and 3D-print a case for the cyberdeck
+- [ ] Add a portable keyboard to the Hardware
+- [ ] Add a trackpad to the Hardware
 
 ## Progress log
 
@@ -99,3 +103,5 @@ The biggest obstacle so far: the Slax image I'm using is x86 (32-bit), but the g
 ---
 
 Personal project by Pedro Henrique Rocha Ladislau da Silva, part of ongoing IT studies (IFRO) and interest in mechatronics engineering.
+
+(translated with AI)
